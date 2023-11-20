@@ -1,0 +1,6 @@
+C:\Users\Suarez.253740\source\repos\BasicCalculator\CaculatorPrivateAssembly\bin\Debug\CaculatorPrivateAssembly.dll
+C:\Users\Suarez.253740\source\repos\BasicCalculator\CaculatorPrivateAssembly\bin\Debug\CaculatorPrivateAssembly.pdb
+C:\Users\Suarez.253740\source\repos\BasicCalculator\CaculatorPrivateAssembly\obj\Debug\CaculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\Suarez.253740\source\repos\BasicCalculator\CaculatorPrivateAssembly\obj\Debug\CaculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\Suarez.253740\source\repos\BasicCalculator\CaculatorPrivateAssembly\obj\Debug\CaculatorPrivateAssembly.dll
+C:\Users\Suarez.253740\source\repos\BasicCalculator\CaculatorPrivateAssembly\obj\Debug\CaculatorPrivateAssembly.pdb
